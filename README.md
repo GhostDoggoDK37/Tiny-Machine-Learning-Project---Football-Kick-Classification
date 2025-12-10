@@ -3,9 +3,8 @@
 This project explores the use of TinyML to differentiate between different types of football kicks using accelerometer data.  
 It is carried out as part of a fifth semester course in Tiny Machine Learning.  
 
-The system aims to classify four types of kicks:  
-- Pass  
-- Long pass  
+The system aims to classify three types of kicks:  
+- Pass    
 - Cross  
 - Shot  
 

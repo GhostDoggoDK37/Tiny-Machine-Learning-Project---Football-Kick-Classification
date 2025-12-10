@@ -1,0 +1,17 @@
+{
+    "extensions.ignoreRecommendations": true,
+    "C_Cpp.default.configurationProvider": "particle.particle-vscode-core",
+    "files.associations": {
+        "*.ino": "cpp"
+    },
+    "particle.targetPlatform": "p2",
+    "particle.firmwareVersion": "6.3.3",
+    "particle.targetDevice": "Photon2",
+    "python-envs.pythonProjects": [
+        {
+            "path": "server",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip"
+        }
+    ]
+}
